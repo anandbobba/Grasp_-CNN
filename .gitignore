@@ -1,6 +1,9 @@
 # Model weights (too large for GitHub)
 *.pth
 
+# LaTeX report (private)
+report.tex
+
 # Python cache
 __pycache__/
 *.pyc
