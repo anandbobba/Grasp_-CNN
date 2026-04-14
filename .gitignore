@@ -1,0 +1,17 @@
+# Model weights (too large for GitHub)
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw dataset (should be downloaded separately)
+grasp_multiObject-master/
+rgbd/
+processed_data/
+
+# IDE / OS
+.vscode/
+*.swp
+Thumbs.db
+.DS_Store
